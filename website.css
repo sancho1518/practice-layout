@@ -1,0 +1,136 @@
+
+.dad{
+
+	margin: 50px 70px;
+	}
+
+/*Heading and catbar*/
+.heading{
+
+    border: 0px;
+    padding: 50px;
+    margin-bottom: 0px;
+    background-color: #00A884;
+    color: white;
+    text-align: center;
+
+
+}
+
+.heading h5 {
+	align-items: end;
+}
+
+
+
+.catbar {
+
+	border: 0px;
+	padding: 10px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background-color: #2a2a2a;
+}
+
+.catbar a {
+	text-decoration: none;
+	color: white;
+	padding: 0px;
+	margin: 5px;
+
+}
+
+
+.main_body {
+
+	display: flex;
+	justify-content: flex-start;
+}
+
+
+/*About container*/
+
+.About_me_container {
+	background-color: grey;
+	width: 40%;
+	height: 30px;
+	margin-right:;
+	background-color: #f0f8ff;
+	margin: 0px;
+	height: 120vh;
+
+}
+
+.image_in_aboutme {
+
+	border: 0px;
+	background-color: #AAAAAA;
+	margin-left: ;
+	margin-bottom: 0px;
+
+	height: 30vh;
+
+	width: 80%;
+	padding:10px;
+
+}
+
+.other_images_in_aboutme {
+
+	background-color: #AAAAAA;
+	width: 80%;
+	height: 10vh;
+	margin-bottom: 10px;
+	padding:10px;
+
+}
+
+
+
+
+
+.body_container {
+
+	width: 70px;
+	height: 200px;
+	margin-right: 40px;
+	margin: 0px;
+	height: 0px;
+	margin-left: 3px;
+}
+
+.container_items {
+
+	margin: 10px;
+
+ }
+
+ #sadiq{
+
+	width: 100px;
+	height: 70px;
+	background-color: #c1c1c1;
+	text-align: center;
+	padding: 20px;
+
+}
+
+
+.image_in_body {
+
+	background-color: #AAAAAA;
+	width: 1000px;
+	padding-right: 20px;
+	margin-left: 10px;
+	height: 30vh;
+}
+
+.footer{
+	background-color: powderblue;
+	width: 97%;
+	height: 40px;
+	padding: 20px;
+	text-align: center;
+	color: black;
+	margin-bottom: 10px;
+}

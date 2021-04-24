@@ -1,0 +1,30 @@
+.to {
+	background-color: blue;
+	height: 50px;
+	margin: 50px;
+
+		}
+
+
+.tom {
+	background-color: blue;
+	height: 200px;
+	margin: 50px;
+}
+.me {
+	display:flex;
+	width: 100%;
+}
+.me > div{
+	background-color: blue;
+	height: 200px;
+	margin: 50px;
+	width: 33%
+}
+
+.they {
+	background-color: blue;
+	height: 50px;
+	margin: 50px;
+}
+
